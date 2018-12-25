@@ -21,7 +21,7 @@ public class Main {
         punkt5(z);
         System.out.println(punkt6(z));
         punkt7(perString);
-        punkt8(8740);
+        punkt8(1740);
    }
 
     // 3 пункт метод вычисляющий выражение a * (b + (c / d)) и возвращающий результат
